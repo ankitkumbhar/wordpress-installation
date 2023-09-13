@@ -17,8 +17,8 @@ sudo apt install php \
 ### Install apache
 ```
 sudo apt install apache2 \
-			 ghostscript \
-			 libapache2-mod-php
+    ghostscript \
+	libapache2-mod-php
 ```
 
 ### Create installation directory
